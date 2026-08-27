@@ -12,7 +12,7 @@ me where I'm wrong.
 
 #### sqlbenchdag — a reproducible SQL benchmarking laboratory
 
-[**sql-benchmarks-dagster**](https://github.com/rctruta/sql-benchmarks-dagster) · `pip install sqlbenchdag` · MCP server `io.github.rctruta/sqlbenchdag` in the [official registry](https://registry.modelcontextprotocol.io/)
+[**sql-benchmarks-dagster**](https://github.com/rctruta/sql-benchmarks-dagster) · `pip install sqlbenchdag` · [MCP server in the official registry](https://mcpverzeichnis.com/en/server/io-github-rctruta-sqlbenchdag)
 
 Every experiment is a capsule addressed by an 8-character SHA-256 fingerprint over its config,
 SQL, and every line of measurement-relevant Python. Change the method, the ID changes.
