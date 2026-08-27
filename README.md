@@ -47,6 +47,7 @@ they did.
 #### Writing
 
 - [Measuring Quack: DuckDB's New Client-Server Protocol](https://ramonactruta.substack.com/p/measuring-quack-duckdbs-new-client) — independent measurements of a protocol at beta, every number capsule-backed
+- [The Blackboard and the Library](https://ramonactruta.substack.com/p/the-blackboard-and-the-library) — agents need two kinds of memory: the blackboard you erase, and the library that persists
 - [A `README` is a Set of Falsifiable Claims](https://ramonactruta.substack.com/p/a-readme-is-a-set-of-falsifiable) — if your README says it works, that's a claim, and claims can be tested
 - [Inside `~/.claude/`: Structure is Not Security](https://ramonactruta.substack.com/p/inside-claude-structure-is-not-security) — what a coding agent writes to your disk, in plaintext
 - [The "Blueberry Muffin Exploit"](https://ramonactruta.substack.com/p/the-blueberry-muffin-exploit-semantic) — semantic injection into agent memory, disclosed
