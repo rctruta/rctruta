@@ -6,7 +6,7 @@ I build the instruments that measure whether database and AI agent systems actua
 they claim — then publish the experiment alongside the result, so you can reproduce it or show
 me where I'm wrong.
 
-[Portfolio](https://www.ramonactruta.com) · [Writing](https://ramonactruta.substack.com) · [LinkedIn](https://linkedin.com/in/ramonactruta) · [ORCID](https://orcid.org/0009-0008-4886-7777)
+[Portfolio](https://rctruta.github.io) · [Writing](https://ramonactruta.substack.com) · [LinkedIn](https://linkedin.com/in/ramonactruta) · [ORCID](https://orcid.org/0009-0008-4886-7777)
 
 ---
 
