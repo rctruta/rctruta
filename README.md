@@ -1,7 +1,5 @@
 ### Ramona C. Truta
 
-**I don't publish a number I can't re-run.**
-
 I build the instruments that measure whether database and AI agent systems actually do what
 they claim — then publish the experiment alongside the result, so you can reproduce it or show
 me where I'm wrong.
@@ -32,8 +30,7 @@ OpenTimestamps proofs anchored to Bitcoin on the four published Quack capsules.
 
 #### Agents, measured the same way
 
-I study AI agent systems by instrumenting them and reading the traces, not by asking them how
-they did.
+I study AI agent systems by instrumenting them and reading the traces.
 
 | | |
 |---|---|
