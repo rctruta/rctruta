@@ -58,6 +58,7 @@ OpenTimestamps proofs anchored to Bitcoin on the four published Quack capsules.
 | | |
 |---|---|
 | [**adversarial-judgement-research**](https://github.com/rctruta/adversarial-judgement-research) | Metatracing engine and execution traces for structural failure modes in multi-agent LLM consensus pipelines: status bias, persona bleed, frame break, axiomatic refusal, consensus contagion, semantic camouflage. [→](https://ramonactruta.com/work.html#consensus-contagion) |
+| [**ai-security-testbed**](https://github.com/rctruta/ai-security-testbed) | A deterministic matrix engine for adversarial audit of multi-agent pipelines: temperature 0, replication, status and thinking-budget sweeps, rule-based grading. 416 traces across frontier and local models. [→](https://ramonactruta.com/work.html#security-testbed) |
 | [**ai-agent-utils**](https://github.com/rctruta/ai-agent-utils) | Boilerplate and security guidelines for collaborating safely with autonomous coding agents, with the gates already enforced rather than written down and hoped for. [→](https://ramonactruta.com/work.html#agent-tools) |
 
 ---
